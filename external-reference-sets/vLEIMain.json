@@ -1,0 +1,16 @@
+{
+    "title": "vLEIMain",
+    "description": "vLEIMain",
+    "creator": "Blockchain Bird",
+    "date": "2025-08-12",
+    "identifier": "vLEIMain",
+    "type": "Dataset",
+    "references": [
+        {
+            "external_spec": "vLEI",
+            "gh_page": "https://henkvancann.github.io/vlei-glossary/",
+            "url": "https://github.com/henkvancann/vlei-glossary",
+            "terms_dir": "spec/terms-definitions"
+        }
+    ]
+}
